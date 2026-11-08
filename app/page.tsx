@@ -81,8 +81,8 @@ export default function Home() {
         <div className="grid gap-6 md:grid-cols-2">
           <Card>
             <CardHeader>
-              <CardTitle>Personal Portfolio</CardTitle>
-              <CardDescription>API Testing: Postman</CardDescription>
+              <CardTitle>API Testing: Postman</CardTitle>
+              <CardDescription>Performed RESTful API testing using Postman to verify backend functionality and database operations.</CardDescription>
             </CardHeader>
             <CardContent>
               Tested RESTful API endpoints using Postman.
