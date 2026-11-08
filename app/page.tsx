@@ -82,10 +82,22 @@ export default function Home() {
           <Card>
             <CardHeader>
               <CardTitle>Personal Portfolio</CardTitle>
-              <CardDescription>Website Development</CardDescription>
+              <CardDescription>API Testing: Postman</CardDescription>
             </CardHeader>
             <CardContent>
-              A personal website showcasing my background, skills, and projects.
+              Tested RESTful API endpoints using Postman.
+
+
+
+Performed GET, POST, PUT, and DELETE requests.
+
+
+
+Tested API responses and status codes.
+
+
+
+Verified backend functionality and database operations.
             </CardContent>
           </Card>
 
